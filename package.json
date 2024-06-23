@@ -1,10 +1,12 @@
 {
-  "name": "code_with_muzzi_number_guessing_game",
+  "name": "code-with-muzzi-guessing-number-game",
   "version": "1.0.0",
   "description": "A simple number guessing game using random function",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": {
+    "code-with-muzzi-number_guessing_game": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
