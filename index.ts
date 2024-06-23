@@ -19,6 +19,6 @@ do {
   } else if (randomNum < obj.guessedNumber) {
     console.log("Number is Lesser than your entered number");
   } else {
-    console.log("Hooo!! You guessed the right number!");
+    console.log("Yahoo! You guessed the right number...");
   }
 } while (randomNum != obj.guessedNumber);
