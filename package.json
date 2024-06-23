@@ -1,6 +1,6 @@
 {
   "name": "code-with-muzzi-guessing-number-game",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple number guessing game using random function",
   "main": "index.js",
   "type": "module",
